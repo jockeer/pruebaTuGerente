@@ -1,3 +1,3 @@
-# WebServer + RestServer
+# Api Reservas
 
-Recuerden que deben ejecutar ``` npm install ``` para reconstruir los modulos de Node.Js papu
+Recuerden que deben ejecutar ``` npm install ``` para reconstruir los modulos de Node.Js

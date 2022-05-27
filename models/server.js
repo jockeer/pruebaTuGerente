@@ -29,7 +29,7 @@ class Server {
     }
 
     routes () {
-        this.app.use(this.usuariosPath, require('../routes/usuarios'));
+        this.app.use('/api/reservas', require('../routes/reservas'));
     }
 
     listen () {
